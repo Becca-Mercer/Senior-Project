@@ -1,0 +1,29 @@
+body{
+	width:100%;
+	margin-left:10px;
+}
+h1{
+	font-size:48px;
+	text-align:center;
+}
+h3{
+	font-size:22px;
+}
+
+p{
+	text-align:left;
+	font-size: 18px;
+}
+.answer{
+	text-align: left;
+	font-size: 14px;
+	font-weight: Bold;
+	margin: 1px;
+	padding: 0px;
+}
+.count{
+	text-align:left;
+	font-size: 14px;
+	margin:1px;
+	margin-left:20px;
+}

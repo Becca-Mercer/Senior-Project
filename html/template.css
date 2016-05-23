@@ -1,0 +1,40 @@
+body{
+	max-height: 800px;
+}
+button{
+	margin:auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+div{
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:center;
+	margin: auto;
+	border:none;
+}
+.fluid-container{
+	max-height: inherit; 
+}
+form{
+	border:none;
+	background:#ffffff;
+}
+.form-control{
+	border:none;
+}
+h1{
+	text-align: center; 
+}
+img{
+	max-height:500px;
+	padding: 10px;
+	margin:auto;
+}
+img.small{
+	max-height:200px;
+}
+p{
+	text-align: center;
+}
